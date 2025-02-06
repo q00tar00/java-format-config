@@ -337,7 +337,7 @@
 <setting id="org.eclipse.jdt.core.formatter.never_indent_block_comments_on_first_column" value="false"/>
 <setting id="org.eclipse.jdt.core.formatter.keep_then_statement_on_same_line" value="false"/>
 
-<!-- add -->
-<setting id="org.eclipse.jdt.core.formatter.never_join_lines" value="true"/>
+<!-- add --> 
+<setting id="org.eclipse.jdt.core.formatter.never_indent_wrapped_lines" value="true"/>
 </profile>
 </profiles>
