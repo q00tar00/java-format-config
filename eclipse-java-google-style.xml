@@ -116,7 +116,8 @@
 <setting id="org.eclipse.jdt.core.formatter.wrap_outer_expressions_when_nested" value="true"/>
 <setting id="org.eclipse.jdt.core.formatter.wrap_non_simple_type_annotation" value="true"/>
 <setting id="org.eclipse.jdt.core.formatter.format_guardian_clause_on_one_line" value="false"/>
-<setting id="org.eclipse.jdt.core.formatter.insert_space_before_colon_in_for" value="insert"/>
+<setting id="org.eclipse.jdt.core.formatter.insert_space_before_colon_in_for" value="do not insert"/>
+<!-- <setting id="org.eclipse.jdt.core.formatter.insert_space_before_colon_in_for" value="insert"/> -->
 <setting id="org.eclipse.jdt.core.formatter.alignment_for_field_declaration" value="16"/>
 <setting id="org.eclipse.jdt.core.formatter.insert_space_before_closing_paren_in_cast" value="do not insert"/>
 <setting id="org.eclipse.jdt.core.formatter.alignment_for_parameters_in_constructor_declaration" value="16"/>
