@@ -346,8 +346,5 @@
 <setting id="org.eclipse.jdt.core.formatter.never_join_lines" value="true"/>
 <setting id="org.eclipse.jdt.core.formatter.never_indent_wrapped_lines" value="true"/>
 <setting id="org.eclipse.jdt.core.formatter.continuation_indentation_for_expression" value="1"/>
-<setting id="org.eclipse.jdt.core.formatter.format_enum_constants" value="true"/>
-<setting id="org.eclipse.jdt.core.formatter.insert_new_line_after_enum_constants" value="false"/>
-<setting id="org.eclipse.jdt.core.formatter.insert_new_line_before_enum_constants" value="false"/>
 </profile>
 </profiles>
