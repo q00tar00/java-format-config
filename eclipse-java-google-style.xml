@@ -347,6 +347,5 @@
 <setting id="org.eclipse.jdt.core.formatter.never_join_lines" value="true"/>
 <setting id="org.eclipse.jdt.core.formatter.never_indent_wrapped_lines" value="true"/>
 <setting id="org.eclipse.jdt.core.formatter.continuation_indentation_for_expression" value="1"/>
-<setting id="org.eclipse.jdt.core.formatter.format_empty_statement_on_same_line" value="true"/>
 </profile>
 </profiles>
